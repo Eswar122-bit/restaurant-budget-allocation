@@ -6,7 +6,7 @@ TOTAL_BUDGET = 200000
 W_REVENUE = 0.7
 W_ORDERS = 1 - W_REVENUE
 
-df = pd.read_csv(r"D:\Restaurant_customer_data (1).xls")
+df = pd.read_csv(r"D:\Restaurant_customer_data.csv")
 
 Total_sales = df.groupby('Ordered_dishes')['Total_bill'].sum()
 Total_items_sold = df.groupby('Ordered_dishes')['Total_bill'].count()
