@@ -1,0 +1,2001 @@
+﻿S.No,Gender,Ordered_dishes,Base_Price,Total_bill
+0,Female,Paneer Butter masala,250,293
+1,Female,Butter Nan,40,62
+2,Female,Brownie With Ice Cream,150,188
+3,Male,Mutton Biriyani,450,495
+4,Male,Brownie With Ice Cream,150,181
+5,Male,Dal Makhani,180,225
+6,Male,Chicken Machurian,200,218
+7,Female,Mutton Biriyani,450,498
+8,Female,Paneer Butter masala,250,278
+9,Male,Butter Nan,40,87
+10,Female,Dal Makhani,180,195
+11,Female,Chicken Machurian,200,224
+12,Female,Chicken Biryani,250,279
+13,Male,Dal Makhani,180,198
+14,Male,Butter Nan,40,81
+15,Male,Chicken 65,230,243
+16,Female,Mutton Biriyani,450,477
+17,Male,Brownie With Ice Cream,150,164
+18,Male,Butter Nan,40,69
+19,Male,Mutton Biriyani,450,482
+20,Male,Brownie With Ice Cream,150,170
+21,Male,Mutton Curry,300,346
+22,Male,Paneer Butter masala,250,281
+23,Female,Chicken Biryani,250,263
+24,Female,Dal Makhani,180,218
+25,Male,Butter Nan,40,83
+26,Male,Chicken Biryani,250,272
+27,Female,Chicken 65,230,248
+28,Female,Mutton Biriyani,450,490
+29,Male,Mutton Biriyani,450,466
+30,Male,Butter Nan,40,53
+31,Male,Chicken Machurian,200,228
+32,Male,Chicken Machurian,200,239
+33,Female,Mutton Curry,300,340
+34,Male,Paneer Butter masala,250,294
+35,Male,Brownie With Ice Cream,150,180
+36,Male,Chicken 65,230,270
+37,Male,Chicken Biryani,250,278
+38,Female,Chicken Machurian,200,240
+39,Female,Mutton Curry,300,341
+40,Female,Mutton Curry,300,311
+41,Male,Butter Nan,40,59
+42,Male,Chicken 65,230,241
+43,Female,Brownie With Ice Cream,150,161
+44,Male,Paneer Butter masala,250,283
+45,Male,Dal Makhani,180,206
+46,Female,Butter Nan,40,81
+47,Female,Brownie With Ice Cream,150,175
+48,Female,Dal Makhani,180,205
+49,Female,Dal Makhani,180,228
+50,Male,Chicken 65,230,270
+51,Male,Chicken 65,230,263
+52,Female,Chicken Biryani,250,260
+53,Male,Mutton Curry,300,320
+54,Female,Brownie With Ice Cream,150,180
+55,Female,Butter Nan,40,53
+56,Male,Mutton Biriyani,450,466
+57,Female,Butter Nan,40,75
+58,Male,Chicken Biryani,250,271
+59,Male,Paneer Butter masala,250,290
+60,Male,Mutton Curry,300,326
+61,Male,Mutton Biriyani,450,492
+62,Female,Chicken Machurian,200,220
+63,Male,Paneer Butter masala,250,287
+64,Female,Chicken 65,230,271
+65,Female,Dal Makhani,180,190
+66,Female,Chicken Machurian,200,237
+67,Female,Butter Nan,40,56
+68,Male,Butter Nan,40,51
+69,Male,Chicken 65,230,263
+70,Female,Chicken Biryani,250,263
+71,Female,Brownie With Ice Cream,150,178
+72,Male,Chicken Machurian,200,235
+73,Female,Chicken Machurian,200,220
+74,Male,Paneer Butter masala,250,299
+75,Female,Mutton Curry,300,320
+76,Male,Paneer Butter masala,250,262
+77,Female,Brownie With Ice Cream,150,171
+78,Female,Butter Nan,40,52
+79,Male,Butter Nan,40,76
+80,Female,Butter Nan,40,51
+81,Female,Butter Nan,40,65
+82,Male,Brownie With Ice Cream,150,161
+83,Female,Chicken 65,230,269
+84,Male,Mutton Curry,300,329
+85,Male,Brownie With Ice Cream,150,197
+86,Female,Mutton Curry,300,337
+87,Female,Brownie With Ice Cream,150,184
+88,Female,Butter Nan,40,81
+89,Female,Chicken 65,230,249
+90,Female,Chicken Machurian,200,249
+91,Female,Paneer Butter masala,250,292
+92,Female,Dal Makhani,180,202
+93,Male,Chicken 65,230,276
+94,Female,Chicken Machurian,200,225
+95,Male,Chicken Biryani,250,281
+96,Female,Brownie With Ice Cream,150,179
+97,Female,Chicken Biryani,250,286
+98,Male,Chicken Machurian,200,225
+99,Female,Chicken 65,230,273
+100,Female,Brownie With Ice Cream,150,191
+101,Male,Dal Makhani,180,215
+102,Female,Butter Nan,40,74
+103,Female,Brownie With Ice Cream,150,161
+104,Female,Brownie With Ice Cream,150,171
+105,Male,Chicken 65,230,279
+106,Female,Chicken 65,230,248
+107,Female,Chicken Machurian,200,221
+108,Female,Mutton Biriyani,450,485
+109,Female,Brownie With Ice Cream,150,168
+110,Male,Paneer Butter masala,250,269
+111,Male,Brownie With Ice Cream,150,191
+112,Female,Chicken Machurian,200,243
+113,Female,Mutton Curry,300,329
+114,Male,Chicken Biryani,250,298
+115,Male,Butter Nan,40,51
+116,Female,Mutton Biriyani,450,460
+117,Male,Dal Makhani,180,225
+118,Female,Dal Makhani,180,213
+119,Male,Dal Makhani,180,216
+120,Male,Chicken 65,230,241
+121,Male,Dal Makhani,180,220
+122,Male,Butter Nan,40,63
+123,Female,Chicken Biryani,250,261
+124,Male,Dal Makhani,180,218
+125,Male,Brownie With Ice Cream,150,174
+126,Female,Brownie With Ice Cream,150,171
+127,Male,Chicken 65,230,276
+128,Male,Butter Nan,40,77
+129,Female,Chicken Biryani,250,279
+130,Male,Mutton Biriyani,450,498
+131,Female,Chicken Machurian,200,233
+132,Female,Chicken Biryani,250,280
+133,Female,Chicken Machurian,200,219
+134,Female,Mutton Curry,300,323
+135,Male,Chicken Machurian,200,246
+136,Female,Paneer Butter masala,250,277
+137,Male,Brownie With Ice Cream,150,183
+138,Male,Butter Nan,40,63
+139,Male,Chicken 65,230,273
+140,Male,Paneer Butter masala,250,271
+141,Male,Chicken Machurian,200,231
+142,Male,Dal Makhani,180,195
+143,Male,Butter Nan,40,85
+144,Male,Paneer Butter masala,250,295
+145,Male,Chicken 65,230,261
+146,Male,Brownie With Ice Cream,150,173
+147,Female,Butter Nan,40,65
+148,Female,Chicken 65,230,275
+149,Female,Mutton Curry,300,334
+150,Male,Mutton Curry,300,341
+151,Female,Chicken 65,230,272
+152,Female,Paneer Butter masala,250,295
+153,Female,Butter Nan,40,69
+154,Male,Paneer Butter masala,250,277
+155,Male,Mutton Biriyani,450,497
+156,Male,Chicken Machurian,200,212
+157,Male,Mutton Biriyani,450,482
+158,Female,Mutton Curry,300,341
+159,Female,Brownie With Ice Cream,150,175
+160,Female,Chicken Biryani,250,264
+161,Female,Chicken Machurian,200,213
+162,Male,Mutton Curry,300,330
+163,Male,Paneer Butter masala,250,299
+164,Male,Paneer Butter masala,250,273
+165,Female,Paneer Butter masala,250,298
+166,Male,Brownie With Ice Cream,150,190
+167,Male,Mutton Biriyani,450,473
+168,Female,Chicken Biryani,250,265
+169,Female,Paneer Butter masala,250,271
+170,Male,Chicken Machurian,200,225
+171,Male,Butter Nan,40,66
+172,Male,Chicken Biryani,250,282
+173,Male,Brownie With Ice Cream,150,173
+174,Male,Chicken Biryani,250,266
+175,Male,Butter Nan,40,81
+176,Female,Chicken Machurian,200,224
+177,Female,Butter Nan,40,66
+178,Female,Chicken 65,230,273
+179,Male,Chicken Machurian,200,214
+180,Female,Chicken Biryani,250,286
+181,Male,Paneer Butter masala,250,282
+182,Male,Chicken Biryani,250,299
+183,Female,Chicken Biryani,250,273
+184,Male,Chicken Machurian,200,224
+185,Male,Chicken 65,230,272
+186,Female,Chicken Biryani,250,290
+187,Female,Mutton Curry,300,344
+188,Female,Dal Makhani,180,206
+189,Male,Dal Makhani,180,217
+190,Female,Chicken Biryani,250,278
+191,Female,Paneer Butter masala,250,282
+192,Male,Brownie With Ice Cream,150,191
+193,Female,Brownie With Ice Cream,150,199
+194,Female,Chicken Machurian,200,222
+195,Female,Dal Makhani,180,209
+196,Male,Chicken Biryani,250,294
+197,Male,Brownie With Ice Cream,150,164
+198,Male,Chicken Biryani,250,268
+199,Male,Chicken Machurian,200,238
+200,Female,Dal Makhani,180,195
+201,Male,Butter Nan,40,74
+202,Male,Mutton Curry,300,340
+203,Female,Mutton Curry,300,331
+204,Female,Brownie With Ice Cream,150,161
+205,Female,Mutton Curry,300,314
+206,Male,Butter Nan,40,76
+207,Male,Chicken Biryani,250,284
+208,Male,Chicken Machurian,200,217
+209,Female,Butter Nan,40,50
+210,Female,Chicken Machurian,200,229
+211,Male,Chicken Machurian,200,232
+212,Female,Dal Makhani,180,221
+213,Female,Chicken Biryani,250,270
+214,Female,Mutton Curry,300,348
+215,Male,Dal Makhani,180,213
+216,Female,Chicken Machurian,200,220
+217,Female,Brownie With Ice Cream,150,188
+218,Male,Mutton Curry,300,335
+219,Male,Mutton Curry,300,325
+220,Female,Chicken Biryani,250,294
+221,Female,Chicken 65,230,259
+222,Male,Mutton Biriyani,450,462
+223,Male,Mutton Biriyani,450,460
+224,Female,Mutton Biriyani,450,460
+225,Female,Chicken 65,230,256
+226,Female,Chicken Biryani,250,261
+227,Female,Chicken 65,230,268
+228,Male,Mutton Biriyani,450,479
+229,Female,Dal Makhani,180,195
+230,Female,Butter Nan,40,57
+231,Male,Chicken Machurian,200,238
+232,Female,Chicken 65,230,272
+233,Male,Chicken Biryani,250,262
+234,Female,Chicken Biryani,250,294
+235,Female,Butter Nan,40,54
+236,Male,Brownie With Ice Cream,150,186
+237,Male,Mutton Curry,300,321
+238,Female,Mutton Biriyani,450,479
+239,Female,Brownie With Ice Cream,150,179
+240,Female,Mutton Biriyani,450,468
+241,Male,Butter Nan,40,88
+242,Female,Mutton Biriyani,450,463
+243,Male,Butter Nan,40,68
+244,Male,Paneer Butter masala,250,297
+245,Female,Brownie With Ice Cream,150,186
+246,Male,Brownie With Ice Cream,150,172
+247,Female,Mutton Curry,300,322
+248,Female,Butter Nan,40,71
+249,Female,Chicken 65,230,267
+250,Female,Paneer Butter masala,250,281
+251,Female,Dal Makhani,180,208
+252,Male,Mutton Biriyani,450,467
+253,Male,Paneer Butter masala,250,267
+254,Female,Butter Nan,40,75
+255,Female,Chicken Machurian,200,235
+256,Male,Mutton Biriyani,450,482
+257,Male,Chicken Biryani,250,272
+258,Male,Brownie With Ice Cream,150,187
+259,Male,Butter Nan,40,58
+260,Female,Chicken Biryani,250,279
+261,Female,Mutton Curry,300,328
+262,Male,Dal Makhani,180,228
+263,Female,Dal Makhani,180,201
+264,Male,Chicken Biryani,250,274
+265,Female,Brownie With Ice Cream,150,190
+266,Male,Mutton Curry,300,323
+267,Female,Chicken Machurian,200,220
+268,Male,Brownie With Ice Cream,150,185
+269,Male,Paneer Butter masala,250,286
+270,Female,Dal Makhani,180,200
+271,Male,Paneer Butter masala,250,297
+272,Female,Mutton Biriyani,450,493
+273,Female,Chicken 65,230,258
+274,Male,Butter Nan,40,55
+275,Female,Mutton Curry,300,347
+276,Female,Brownie With Ice Cream,150,187
+277,Female,Dal Makhani,180,190
+278,Female,Paneer Butter masala,250,294
+279,Female,Mutton Biriyani,450,499
+280,Male,Butter Nan,40,57
+281,Female,Butter Nan,40,56
+282,Female,Brownie With Ice Cream,150,170
+283,Female,Mutton Curry,300,348
+284,Female,Chicken Machurian,200,213
+285,Female,Brownie With Ice Cream,150,184
+286,Male,Paneer Butter masala,250,271
+287,Female,Chicken 65,230,265
+288,Male,Chicken Biryani,250,297
+289,Male,Chicken Machurian,200,221
+290,Male,Mutton Curry,300,346
+291,Male,Mutton Biriyani,450,483
+292,Female,Chicken Machurian,200,225
+293,Male,Dal Makhani,180,202
+294,Male,Mutton Curry,300,334
+295,Female,Chicken 65,230,243
+296,Female,Dal Makhani,180,200
+297,Female,Chicken Machurian,200,241
+298,Male,Chicken Biryani,250,266
+299,Female,Chicken Biryani,250,270
+300,Female,Chicken 65,230,267
+301,Male,Butter Nan,40,72
+302,Female,Mutton Biriyani,450,482
+303,Female,Butter Nan,40,77
+304,Female,Chicken Biryani,250,285
+305,Female,Chicken Biryani,250,284
+306,Male,Paneer Butter masala,250,288
+307,Female,Dal Makhani,180,208
+308,Female,Chicken Machurian,200,242
+309,Male,Mutton Biriyani,450,495
+310,Female,Chicken 65,230,253
+311,Male,Chicken Machurian,200,223
+312,Female,Paneer Butter masala,250,294
+313,Male,Chicken Biryani,250,289
+314,Male,Chicken 65,230,267
+315,Male,Chicken Biryani,250,276
+316,Male,Mutton Biriyani,450,462
+317,Female,Dal Makhani,180,205
+318,Male,Chicken Machurian,200,239
+319,Female,Chicken Machurian,200,238
+320,Male,Butter Nan,40,64
+321,Male,Chicken 65,230,264
+322,Male,Paneer Butter masala,250,297
+323,Female,Butter Nan,40,87
+324,Male,Mutton Biriyani,450,482
+325,Female,Paneer Butter masala,250,284
+326,Female,Dal Makhani,180,196
+327,Female,Dal Makhani,180,211
+328,Female,Dal Makhani,180,206
+329,Female,Dal Makhani,180,207
+330,Female,Butter Nan,40,59
+331,Female,Mutton Curry,300,319
+332,Female,Paneer Butter masala,250,266
+333,Female,Chicken 65,230,277
+334,Male,Mutton Biriyani,450,486
+335,Male,Brownie With Ice Cream,150,192
+336,Male,Chicken Biryani,250,260
+337,Male,Chicken 65,230,273
+338,Male,Chicken Biryani,250,263
+339,Female,Paneer Butter masala,250,276
+340,Female,Chicken 65,230,243
+341,Female,Dal Makhani,180,215
+342,Female,Dal Makhani,180,193
+343,Female,Brownie With Ice Cream,150,160
+344,Female,Chicken Biryani,250,266
+345,Female,Mutton Biriyani,450,489
+346,Male,Paneer Butter masala,250,268
+347,Male,Dal Makhani,180,224
+348,Male,Mutton Curry,300,317
+349,Male,Butter Nan,40,73
+350,Female,Butter Nan,40,68
+351,Female,Mutton Biriyani,450,495
+352,Female,Butter Nan,40,76
+353,Male,Chicken Biryani,250,291
+354,Female,Dal Makhani,180,203
+355,Female,Dal Makhani,180,207
+356,Female,Mutton Curry,300,337
+357,Male,Chicken 65,230,268
+358,Female,Butter Nan,40,65
+359,Male,Chicken Biryani,250,294
+360,Male,Chicken Machurian,200,240
+361,Male,Butter Nan,40,53
+362,Male,Mutton Biriyani,450,496
+363,Female,Chicken 65,230,256
+364,Male,Butter Nan,40,88
+365,Male,Chicken Biryani,250,285
+366,Female,Butter Nan,40,88
+367,Female,Mutton Biriyani,450,463
+368,Male,Chicken Machurian,200,239
+369,Female,Paneer Butter masala,250,289
+370,Male,Brownie With Ice Cream,150,181
+371,Male,Chicken Machurian,200,220
+372,Male,Butter Nan,40,51
+373,Male,Dal Makhani,180,201
+374,Female,Mutton Curry,300,339
+375,Male,Dal Makhani,180,225
+376,Female,Chicken Machurian,200,227
+377,Female,Dal Makhani,180,215
+378,Female,Chicken Biryani,250,266
+379,Female,Dal Makhani,180,190
+380,Male,Chicken 65,230,265
+381,Female,Paneer Butter masala,250,282
+382,Male,Butter Nan,40,75
+383,Female,Dal Makhani,180,195
+384,Female,Mutton Biriyani,450,465
+385,Male,Paneer Butter masala,250,267
+386,Male,Paneer Butter masala,250,283
+387,Male,Dal Makhani,180,211
+388,Female,Paneer Butter masala,250,278
+389,Female,Mutton Curry,300,346
+390,Male,Dal Makhani,180,207
+391,Male,Chicken Biryani,250,290
+392,Male,Chicken Machurian,200,246
+393,Male,Chicken 65,230,269
+394,Female,Brownie With Ice Cream,150,192
+395,Male,Paneer Butter masala,250,269
+396,Male,Chicken Biryani,250,296
+397,Male,Butter Nan,40,61
+398,Male,Butter Nan,40,79
+399,Female,Chicken 65,230,266
+400,Male,Paneer Butter masala,250,298
+401,Female,Mutton Curry,300,318
+402,Male,Chicken 65,230,260
+403,Male,Paneer Butter masala,250,271
+404,Female,Chicken Biryani,250,288
+405,Male,Chicken Machurian,200,242
+406,Female,Mutton Curry,300,324
+407,Female,Brownie With Ice Cream,150,161
+408,Male,Butter Nan,40,88
+409,Female,Mutton Biriyani,450,477
+410,Female,Chicken Biryani,250,262
+411,Female,Butter Nan,40,56
+412,Female,Dal Makhani,180,207
+413,Female,Mutton Biriyani,450,497
+414,Female,Butter Nan,40,86
+415,Female,Chicken 65,230,272
+416,Female,Mutton Curry,300,340
+417,Male,Butter Nan,40,60
+418,Male,Brownie With Ice Cream,150,163
+419,Female,Chicken Machurian,200,227
+420,Male,Chicken 65,230,243
+421,Female,Chicken Biryani,250,293
+422,Female,Chicken Biryani,250,288
+423,Male,Chicken Biryani,250,283
+424,Female,Chicken Biryani,250,281
+425,Female,Chicken Machurian,200,211
+426,Female,Butter Nan,40,55
+427,Female,Paneer Butter masala,250,284
+428,Male,Butter Nan,40,70
+429,Female,Dal Makhani,180,205
+430,Female,Mutton Curry,300,340
+431,Female,Mutton Biriyani,450,473
+432,Male,Paneer Butter masala,250,298
+433,Female,Paneer Butter masala,250,287
+434,Male,Butter Nan,40,81
+435,Male,Paneer Butter masala,250,287
+436,Female,Dal Makhani,180,198
+437,Female,Mutton Biriyani,450,481
+438,Male,Brownie With Ice Cream,150,191
+439,Female,Chicken Machurian,200,214
+440,Male,Butter Nan,40,72
+441,Male,Chicken Machurian,200,214
+442,Female,Brownie With Ice Cream,150,191
+443,Female,Butter Nan,40,59
+444,Male,Butter Nan,40,88
+445,Male,Mutton Biriyani,450,474
+446,Male,Chicken Machurian,200,216
+447,Male,Chicken Biryani,250,288
+448,Female,Chicken Machurian,200,212
+449,Female,Mutton Curry,300,328
+450,Female,Mutton Curry,300,319
+451,Female,Butter Nan,40,77
+452,Female,Chicken Biryani,250,288
+453,Male,Chicken 65,230,254
+454,Female,Brownie With Ice Cream,150,194
+455,Female,Dal Makhani,180,195
+456,Female,Chicken Biryani,250,271
+457,Female,Dal Makhani,180,227
+458,Female,Chicken Machurian,200,222
+459,Male,Chicken Machurian,200,238
+460,Male,Dal Makhani,180,208
+461,Male,Brownie With Ice Cream,150,162
+462,Female,Chicken Biryani,250,267
+463,Male,Chicken 65,230,247
+464,Male,Butter Nan,40,69
+465,Female,Mutton Biriyani,450,463
+466,Female,Chicken Machurian,200,230
+467,Female,Mutton Curry,300,312
+468,Male,Brownie With Ice Cream,150,167
+469,Male,Mutton Biriyani,450,482
+470,Female,Chicken 65,230,255
+471,Female,Paneer Butter masala,250,272
+472,Male,Butter Nan,40,52
+473,Male,Chicken Machurian,200,218
+474,Female,Butter Nan,40,63
+475,Female,Mutton Biriyani,450,472
+476,Male,Butter Nan,40,56
+477,Female,Paneer Butter masala,250,274
+478,Male,Mutton Biriyani,450,466
+479,Male,Chicken Machurian,200,247
+480,Male,Chicken Biryani,250,293
+481,Male,Mutton Curry,300,331
+482,Female,Mutton Biriyani,450,483
+483,Female,Paneer Butter masala,250,296
+484,Male,Mutton Biriyani,450,460
+485,Male,Mutton Biriyani,450,469
+486,Male,Chicken Machurian,200,225
+487,Male,Mutton Biriyani,450,467
+488,Male,Mutton Curry,300,334
+489,Female,Butter Nan,40,61
+490,Female,Chicken Machurian,200,234
+491,Female,Mutton Curry,300,326
+492,Female,Chicken Machurian,200,235
+493,Male,Mutton Curry,300,323
+494,Male,Paneer Butter masala,250,295
+495,Male,Mutton Curry,300,332
+496,Male,Dal Makhani,180,195
+497,Male,Mutton Curry,300,314
+498,Female,Chicken Biryani,250,284
+499,Male,Chicken Biryani,250,277
+500,Female,Brownie With Ice Cream,150,172
+501,Female,Dal Makhani,180,203
+502,Female,Dal Makhani,180,217
+503,Female,Butter Nan,40,67
+504,Male,Dal Makhani,180,217
+505,Female,Butter Nan,40,76
+506,Female,Brownie With Ice Cream,150,191
+507,Female,Brownie With Ice Cream,150,168
+508,Male,Paneer Butter masala,250,299
+509,Male,Chicken Biryani,250,291
+510,Male,Mutton Curry,300,329
+511,Female,Mutton Curry,300,337
+512,Female,Chicken 65,230,272
+513,Male,Chicken Machurian,200,213
+514,Female,Paneer Butter masala,250,293
+515,Male,Chicken 65,230,242
+516,Male,Chicken 65,230,265
+517,Female,Mutton Biriyani,450,467
+518,Female,Mutton Biriyani,450,465
+519,Female,Chicken 65,230,255
+520,Female,Dal Makhani,180,213
+521,Male,Chicken Machurian,200,248
+522,Male,Paneer Butter masala,250,289
+523,Male,Chicken 65,230,252
+524,Male,Mutton Curry,300,314
+525,Male,Chicken Machurian,200,234
+526,Female,Mutton Biriyani,450,479
+527,Male,Mutton Curry,300,327
+528,Male,Mutton Biriyani,450,477
+529,Male,Mutton Biriyani,450,461
+530,Female,Chicken Machurian,200,219
+531,Female,Mutton Biriyani,450,471
+532,Female,Brownie With Ice Cream,150,172
+533,Female,Chicken Biryani,250,270
+534,Male,Brownie With Ice Cream,150,178
+535,Male,Chicken Biryani,250,294
+536,Female,Mutton Biriyani,450,498
+537,Female,Paneer Butter masala,250,285
+538,Male,Paneer Butter masala,250,273
+539,Male,Chicken Biryani,250,283
+540,Female,Mutton Curry,300,310
+541,Female,Chicken Machurian,200,231
+542,Female,Mutton Biriyani,450,482
+543,Female,Chicken Machurian,200,228
+544,Male,Brownie With Ice Cream,150,177
+545,Male,Paneer Butter masala,250,271
+546,Male,Dal Makhani,180,217
+547,Female,Brownie With Ice Cream,150,187
+548,Female,Brownie With Ice Cream,150,192
+549,Male,Chicken Biryani,250,278
+550,Male,Butter Nan,40,77
+551,Male,Brownie With Ice Cream,150,196
+552,Male,Mutton Biriyani,450,485
+553,Female,Chicken 65,230,274
+554,Male,Chicken 65,230,273
+555,Male,Mutton Biriyani,450,494
+556,Male,Butter Nan,40,89
+557,Male,Butter Nan,40,65
+558,Male,Chicken Biryani,250,297
+559,Male,Paneer Butter masala,250,272
+560,Male,Chicken Machurian,200,232
+561,Female,Butter Nan,40,71
+562,Female,Dal Makhani,180,205
+563,Female,Chicken Biryani,250,287
+564,Female,Mutton Curry,300,344
+565,Male,Chicken Biryani,250,267
+566,Female,Brownie With Ice Cream,150,181
+567,Female,Chicken Machurian,200,230
+568,Male,Mutton Curry,300,335
+569,Male,Mutton Curry,300,349
+570,Female,Dal Makhani,180,210
+571,Female,Dal Makhani,180,214
+572,Male,Dal Makhani,180,190
+573,Female,Chicken Biryani,250,265
+574,Male,Chicken Machurian,200,232
+575,Male,Chicken Biryani,250,282
+576,Male,Chicken 65,230,262
+577,Male,Brownie With Ice Cream,150,191
+578,Female,Brownie With Ice Cream,150,189
+579,Male,Dal Makhani,180,202
+580,Male,Chicken 65,230,257
+581,Female,Butter Nan,40,72
+582,Male,Butter Nan,40,64
+583,Female,Dal Makhani,180,222
+584,Female,Chicken Biryani,250,280
+585,Female,Dal Makhani,180,228
+586,Male,Paneer Butter masala,250,282
+587,Female,Mutton Curry,300,336
+588,Female,Brownie With Ice Cream,150,177
+589,Male,Butter Nan,40,73
+590,Female,Mutton Biriyani,450,499
+591,Female,Butter Nan,40,56
+592,Female,Brownie With Ice Cream,150,179
+593,Female,Mutton Curry,300,336
+594,Female,Brownie With Ice Cream,150,165
+595,Male,Mutton Biriyani,450,486
+596,Female,Dal Makhani,180,198
+597,Female,Chicken 65,230,270
+598,Male,Mutton Biriyani,450,480
+599,Male,Brownie With Ice Cream,150,185
+600,Male,Brownie With Ice Cream,150,199
+601,Female,Paneer Butter masala,250,272
+602,Male,Paneer Butter masala,250,282
+603,Female,Chicken Machurian,200,229
+604,Female,Paneer Butter masala,250,296
+605,Male,Chicken Biryani,250,287
+606,Male,Chicken 65,230,256
+607,Female,Mutton Curry,300,337
+608,Male,Mutton Biriyani,450,461
+609,Female,Brownie With Ice Cream,150,184
+610,Male,Chicken Machurian,200,215
+611,Male,Chicken Machurian,200,220
+612,Male,Mutton Curry,300,347
+613,Female,Chicken 65,230,245
+614,Male,Mutton Biriyani,450,470
+615,Female,Butter Nan,40,63
+616,Female,Paneer Butter masala,250,261
+617,Female,Dal Makhani,180,229
+618,Female,Chicken Machurian,200,212
+619,Male,Paneer Butter masala,250,294
+620,Female,Paneer Butter masala,250,292
+621,Female,Chicken Biryani,250,283
+622,Male,Chicken 65,230,258
+623,Female,Dal Makhani,180,207
+624,Male,Butter Nan,40,73
+625,Female,Brownie With Ice Cream,150,194
+626,Male,Chicken Biryani,250,260
+627,Female,Paneer Butter masala,250,295
+628,Male,Paneer Butter masala,250,284
+629,Female,Dal Makhani,180,223
+630,Female,Dal Makhani,180,214
+631,Male,Dal Makhani,180,205
+632,Male,Paneer Butter masala,250,293
+633,Male,Chicken Machurian,200,238
+634,Male,Mutton Biriyani,450,478
+635,Female,Paneer Butter masala,250,282
+636,Female,Chicken Biryani,250,278
+637,Male,Chicken 65,230,264
+638,Female,Butter Nan,40,65
+639,Male,Brownie With Ice Cream,150,168
+640,Male,Butter Nan,40,50
+641,Female,Paneer Butter masala,250,278
+642,Female,Chicken Biryani,250,292
+643,Female,Paneer Butter masala,250,293
+644,Female,Chicken 65,230,255
+645,Female,Chicken Machurian,200,249
+646,Female,Brownie With Ice Cream,150,177
+647,Female,Chicken 65,230,273
+648,Male,Paneer Butter masala,250,284
+649,Male,Chicken Biryani,250,265
+650,Male,Chicken 65,230,260
+651,Male,Mutton Curry,300,315
+652,Male,Chicken Biryani,250,291
+653,Female,Chicken Machurian,200,248
+654,Male,Paneer Butter masala,250,290
+655,Male,Dal Makhani,180,199
+656,Male,Brownie With Ice Cream,150,189
+657,Male,Mutton Biriyani,450,477
+658,Male,Dal Makhani,180,213
+659,Male,Paneer Butter masala,250,268
+660,Male,Mutton Curry,300,340
+661,Female,Dal Makhani,180,204
+662,Female,Brownie With Ice Cream,150,163
+663,Male,Chicken Biryani,250,299
+664,Female,Mutton Curry,300,318
+665,Female,Mutton Curry,300,318
+666,Female,Chicken 65,230,265
+667,Female,Brownie With Ice Cream,150,163
+668,Male,Dal Makhani,180,206
+669,Female,Chicken 65,230,255
+670,Female,Mutton Curry,300,324
+671,Female,Chicken 65,230,274
+672,Male,Butter Nan,40,54
+673,Male,Brownie With Ice Cream,150,164
+674,Male,Chicken Machurian,200,229
+675,Male,Chicken Biryani,250,274
+676,Male,Mutton Curry,300,327
+677,Male,Brownie With Ice Cream,150,161
+678,Male,Chicken Machurian,200,238
+679,Female,Chicken Machurian,200,222
+680,Female,Paneer Butter masala,250,263
+681,Female,Chicken 65,230,249
+682,Male,Chicken Machurian,200,240
+683,Male,Butter Nan,40,57
+684,Male,Brownie With Ice Cream,150,162
+685,Male,Mutton Biriyani,450,468
+686,Male,Mutton Biriyani,450,489
+687,Female,Mutton Curry,300,320
+688,Female,Chicken 65,230,274
+689,Male,Chicken Machurian,200,246
+690,Male,Brownie With Ice Cream,150,172
+691,Male,Mutton Curry,300,345
+692,Male,Dal Makhani,180,202
+693,Female,Chicken Machurian,200,221
+694,Male,Chicken 65,230,276
+695,Male,Mutton Biriyani,450,469
+696,Male,Paneer Butter masala,250,268
+697,Male,Brownie With Ice Cream,150,166
+698,Female,Chicken Biryani,250,261
+699,Male,Mutton Curry,300,332
+700,Male,Brownie With Ice Cream,150,198
+701,Female,Brownie With Ice Cream,150,199
+702,Female,Butter Nan,40,88
+703,Female,Dal Makhani,180,210
+704,Male,Chicken Machurian,200,232
+705,Male,Chicken Machurian,200,238
+706,Female,Chicken 65,230,253
+707,Female,Chicken Biryani,250,285
+708,Female,Chicken Biryani,250,264
+709,Female,Chicken 65,230,270
+710,Female,Paneer Butter masala,250,284
+711,Female,Chicken Machurian,200,240
+712,Male,Paneer Butter masala,250,279
+713,Male,Brownie With Ice Cream,150,176
+714,Male,Brownie With Ice Cream,150,161
+715,Female,Mutton Biriyani,450,484
+716,Female,Chicken Biryani,250,272
+717,Female,Mutton Biriyani,450,498
+718,Female,Dal Makhani,180,217
+719,Female,Chicken 65,230,245
+720,Female,Chicken 65,230,242
+721,Male,Brownie With Ice Cream,150,194
+722,Male,Chicken Machurian,200,227
+723,Female,Paneer Butter masala,250,270
+724,Male,Chicken Biryani,250,279
+725,Female,Mutton Biriyani,450,464
+726,Male,Paneer Butter masala,250,278
+727,Female,Mutton Biriyani,450,481
+728,Female,Dal Makhani,180,208
+729,Male,Dal Makhani,180,205
+730,Male,Paneer Butter masala,250,283
+731,Female,Paneer Butter masala,250,263
+732,Female,Paneer Butter masala,250,274
+733,Male,Mutton Biriyani,450,484
+734,Male,Butter Nan,40,84
+735,Female,Paneer Butter masala,250,273
+736,Male,Chicken Machurian,200,228
+737,Female,Chicken Biryani,250,297
+738,Female,Chicken Biryani,250,295
+739,Female,Mutton Biriyani,450,466
+740,Female,Paneer Butter masala,250,289
+741,Male,Brownie With Ice Cream,150,178
+742,Male,Chicken 65,230,264
+743,Male,Butter Nan,40,65
+744,Male,Chicken Machurian,200,249
+745,Male,Brownie With Ice Cream,150,167
+746,Male,Dal Makhani,180,207
+747,Male,Brownie With Ice Cream,150,187
+748,Female,Mutton Biriyani,450,475
+749,Male,Butter Nan,40,68
+750,Male,Mutton Curry,300,326
+751,Female,Mutton Curry,300,322
+752,Male,Paneer Butter masala,250,266
+753,Male,Paneer Butter masala,250,286
+754,Female,Mutton Biriyani,450,469
+755,Male,Paneer Butter masala,250,293
+756,Male,Chicken 65,230,275
+757,Male,Butter Nan,40,74
+758,Female,Mutton Biriyani,450,465
+759,Male,Chicken Biryani,250,283
+760,Male,Dal Makhani,180,207
+761,Female,Mutton Biriyani,450,482
+762,Male,Mutton Biriyani,450,465
+763,Female,Mutton Curry,300,338
+764,Female,Chicken Machurian,200,234
+765,Male,Chicken Machurian,200,226
+766,Female,Chicken 65,230,263
+767,Female,Chicken Biryani,250,270
+768,Male,Mutton Curry,300,335
+769,Female,Chicken Biryani,250,293
+770,Female,Chicken 65,230,267
+771,Male,Chicken Machurian,200,212
+772,Male,Mutton Biriyani,450,470
+773,Male,Paneer Butter masala,250,297
+774,Female,Paneer Butter masala,250,273
+775,Male,Brownie With Ice Cream,150,185
+776,Female,Dal Makhani,180,210
+777,Female,Chicken 65,230,278
+778,Female,Dal Makhani,180,219
+779,Female,Dal Makhani,180,197
+780,Female,Chicken Machurian,200,229
+781,Female,Chicken Machurian,200,241
+782,Female,Mutton Biriyani,450,481
+783,Male,Mutton Curry,300,316
+784,Male,Chicken Machurian,200,218
+785,Female,Paneer Butter masala,250,260
+786,Female,Dal Makhani,180,218
+787,Male,Brownie With Ice Cream,150,167
+788,Female,Butter Nan,40,53
+789,Male,Chicken 65,230,274
+790,Male,Brownie With Ice Cream,150,162
+791,Male,Paneer Butter masala,250,299
+792,Female,Chicken Machurian,200,216
+793,Female,Mutton Curry,300,336
+794,Male,Mutton Biriyani,450,460
+795,Male,Butter Nan,40,76
+796,Male,Chicken Biryani,250,275
+797,Male,Brownie With Ice Cream,150,197
+798,Male,Mutton Curry,300,316
+799,Female,Chicken Biryani,250,282
+800,Male,Butter Nan,40,60
+801,Female,Chicken 65,230,272
+802,Male,Chicken 65,230,275
+803,Female,Dal Makhani,180,226
+804,Female,Butter Nan,40,66
+805,Female,Butter Nan,40,84
+806,Female,Chicken Biryani,250,264
+807,Female,Mutton Curry,300,341
+808,Female,Chicken Biryani,250,262
+809,Male,Mutton Biriyani,450,494
+810,Female,Chicken 65,230,253
+811,Male,Chicken 65,230,270
+812,Female,Dal Makhani,180,220
+813,Female,Mutton Biriyani,450,476
+814,Male,Chicken 65,230,263
+815,Female,Chicken Biryani,250,282
+816,Male,Mutton Biriyani,450,477
+817,Male,Chicken Biryani,250,273
+818,Male,Chicken 65,230,254
+819,Male,Chicken 65,230,254
+820,Female,Mutton Curry,300,315
+821,Female,Brownie With Ice Cream,150,186
+822,Male,Brownie With Ice Cream,150,174
+823,Female,Dal Makhani,180,225
+824,Female,Chicken Biryani,250,267
+825,Male,Chicken Biryani,250,274
+826,Female,Paneer Butter masala,250,262
+827,Male,Mutton Biriyani,450,472
+828,Male,Chicken Machurian,200,243
+829,Female,Brownie With Ice Cream,150,183
+830,Female,Chicken 65,230,279
+831,Female,Dal Makhani,180,221
+832,Male,Chicken Machurian,200,241
+833,Male,Butter Nan,40,79
+834,Female,Dal Makhani,180,202
+835,Female,Butter Nan,40,50
+836,Female,Butter Nan,40,83
+837,Female,Butter Nan,40,64
+838,Male,Mutton Curry,300,323
+839,Female,Mutton Curry,300,338
+840,Male,Mutton Curry,300,343
+841,Male,Chicken Machurian,200,227
+842,Female,Dal Makhani,180,196
+843,Female,Dal Makhani,180,218
+844,Female,Chicken 65,230,270
+845,Male,Mutton Curry,300,334
+846,Female,Chicken 65,230,277
+847,Female,Mutton Biriyani,450,473
+848,Male,Chicken 65,230,247
+849,Female,Chicken Machurian,200,236
+850,Male,Brownie With Ice Cream,150,161
+851,Female,Butter Nan,40,66
+852,Male,Mutton Curry,300,346
+853,Female,Brownie With Ice Cream,150,173
+854,Female,Chicken 65,230,264
+855,Male,Butter Nan,40,79
+856,Male,Dal Makhani,180,218
+857,Female,Chicken Biryani,250,279
+858,Male,Butter Nan,40,70
+859,Male,Chicken Machurian,200,231
+860,Male,Chicken Machurian,200,244
+861,Male,Chicken 65,230,276
+862,Female,Mutton Biriyani,450,475
+863,Female,Chicken Machurian,200,226
+864,Male,Chicken Machurian,200,225
+865,Male,Chicken 65,230,241
+866,Male,Butter Nan,40,53
+867,Male,Mutton Biriyani,450,480
+868,Female,Brownie With Ice Cream,150,198
+869,Female,Chicken Biryani,250,293
+870,Male,Mutton Curry,300,339
+871,Male,Dal Makhani,180,195
+872,Male,Chicken Machurian,200,226
+873,Female,Chicken 65,230,278
+874,Male,Mutton Curry,300,334
+875,Female,Dal Makhani,180,194
+876,Male,Dal Makhani,180,194
+877,Female,Brownie With Ice Cream,150,179
+878,Male,Brownie With Ice Cream,150,175
+879,Female,Brownie With Ice Cream,150,196
+880,Male,Paneer Butter masala,250,299
+881,Male,Paneer Butter masala,250,268
+882,Male,Dal Makhani,180,194
+883,Female,Brownie With Ice Cream,150,161
+884,Male,Chicken Machurian,200,218
+885,Female,Mutton Curry,300,345
+886,Female,Mutton Curry,300,331
+887,Male,Paneer Butter masala,250,281
+888,Male,Dal Makhani,180,211
+889,Male,Chicken 65,230,273
+890,Female,Butter Nan,40,78
+891,Male,Butter Nan,40,87
+892,Female,Paneer Butter masala,250,292
+893,Female,Chicken 65,230,257
+894,Male,Paneer Butter masala,250,266
+895,Male,Butter Nan,40,50
+896,Male,Chicken 65,230,272
+897,Male,Brownie With Ice Cream,150,160
+898,Male,Dal Makhani,180,213
+899,Male,Mutton Curry,300,313
+900,Female,Mutton Biriyani,450,463
+901,Female,Dal Makhani,180,207
+902,Female,Brownie With Ice Cream,150,186
+903,Male,Butter Nan,40,81
+904,Female,Brownie With Ice Cream,150,192
+905,Female,Paneer Butter masala,250,287
+906,Female,Chicken 65,230,275
+907,Female,Mutton Curry,300,315
+908,Female,Chicken Machurian,200,225
+909,Male,Paneer Butter masala,250,293
+910,Male,Dal Makhani,180,212
+911,Female,Paneer Butter masala,250,283
+912,Female,Dal Makhani,180,202
+913,Female,Chicken Machurian,200,227
+914,Male,Chicken Biryani,250,272
+915,Male,Mutton Curry,300,346
+916,Female,Mutton Biriyani,450,498
+917,Male,Brownie With Ice Cream,150,176
+918,Male,Chicken Biryani,250,274
+919,Female,Paneer Butter masala,250,277
+920,Male,Brownie With Ice Cream,150,182
+921,Male,Chicken Biryani,250,289
+922,Female,Chicken 65,230,273
+923,Male,Chicken 65,230,243
+924,Male,Brownie With Ice Cream,150,162
+925,Female,Dal Makhani,180,196
+926,Male,Dal Makhani,180,207
+927,Male,Paneer Butter masala,250,266
+928,Female,Chicken Biryani,250,299
+929,Female,Chicken Biryani,250,265
+930,Female,Brownie With Ice Cream,150,181
+931,Male,Butter Nan,40,50
+932,Female,Chicken 65,230,243
+933,Male,Chicken Biryani,250,288
+934,Female,Brownie With Ice Cream,150,180
+935,Male,Chicken Machurian,200,235
+936,Female,Mutton Biriyani,450,473
+937,Female,Chicken Machurian,200,218
+938,Female,Mutton Curry,300,321
+939,Female,Paneer Butter masala,250,265
+940,Male,Chicken Biryani,250,279
+941,Female,Mutton Curry,300,333
+942,Female,Mutton Curry,300,336
+943,Male,Brownie With Ice Cream,150,197
+944,Female,Chicken Biryani,250,267
+945,Male,Mutton Biriyani,450,460
+946,Female,Brownie With Ice Cream,150,183
+947,Female,Brownie With Ice Cream,150,166
+948,Female,Paneer Butter masala,250,278
+949,Male,Paneer Butter masala,250,281
+950,Female,Chicken 65,230,274
+951,Female,Chicken 65,230,269
+952,Female,Dal Makhani,180,218
+953,Male,Butter Nan,40,71
+954,Male,Chicken Biryani,250,270
+955,Female,Chicken Biryani,250,279
+956,Male,Mutton Curry,300,338
+957,Female,Chicken Biryani,250,293
+958,Female,Chicken Biryani,250,260
+959,Female,Butter Nan,40,80
+960,Female,Chicken 65,230,269
+961,Female,Chicken 65,230,257
+962,Female,Mutton Biriyani,450,476
+963,Female,Chicken Biryani,250,297
+964,Male,Butter Nan,40,63
+965,Male,Chicken 65,230,262
+966,Male,Butter Nan,40,74
+967,Male,Chicken Machurian,200,224
+968,Male,Chicken Biryani,250,281
+969,Male,Mutton Biriyani,450,462
+970,Male,Mutton Curry,300,328
+971,Female,Chicken 65,230,273
+972,Female,Chicken Machurian,200,244
+973,Female,Butter Nan,40,50
+974,Female,Paneer Butter masala,250,280
+975,Male,Brownie With Ice Cream,150,188
+976,Male,Chicken Biryani,250,265
+977,Female,Chicken Biryani,250,296
+978,Female,Chicken Machurian,200,210
+979,Male,Butter Nan,40,50
+980,Female,Dal Makhani,180,216
+981,Female,Chicken Biryani,250,280
+982,Female,Dal Makhani,180,205
+983,Female,Paneer Butter masala,250,299
+984,Male,Chicken Machurian,200,235
+985,Female,Butter Nan,40,65
+986,Female,Butter Nan,40,77
+987,Male,Brownie With Ice Cream,150,160
+988,Male,Chicken 65,230,275
+989,Female,Chicken 65,230,249
+990,Male,Mutton Curry,300,326
+991,Female,Mutton Biriyani,450,482
+992,Female,Chicken Machurian,200,216
+993,Male,Paneer Butter masala,250,266
+994,Female,Butter Nan,40,64
+995,Female,Brownie With Ice Cream,150,193
+996,Female,Dal Makhani,180,193
+997,Female,Chicken Machurian,200,223
+998,Male,Mutton Curry,300,323
+999,Male,Chicken Machurian,200,225
+1000,Female,Mutton Curry,300,316
+1001,Male,Butter Nan,40,81
+1002,Female,Mutton Biriyani,450,478
+1003,Female,Mutton Curry,300,311
+1004,Female,Butter Nan,40,59
+1005,Female,Butter Nan,40,66
+1006,Female,Mutton Biriyani,450,496
+1007,Male,Chicken 65,230,251
+1008,Female,Chicken Machurian,200,215
+1009,Male,Chicken Biryani,250,281
+1010,Male,Chicken Biryani,250,291
+1011,Female,Dal Makhani,180,209
+1012,Female,Dal Makhani,180,190
+1013,Female,Chicken Biryani,250,265
+1014,Female,Paneer Butter masala,250,278
+1015,Female,Chicken Biryani,250,277
+1016,Male,Dal Makhani,180,195
+1017,Female,Brownie With Ice Cream,150,192
+1018,Female,Dal Makhani,180,212
+1019,Male,Paneer Butter masala,250,282
+1020,Male,Chicken Machurian,200,235
+1021,Female,Chicken Biryani,250,272
+1022,Male,Mutton Biriyani,450,466
+1023,Female,Brownie With Ice Cream,150,174
+1024,Male,Butter Nan,40,76
+1025,Male,Paneer Butter masala,250,285
+1026,Female,Dal Makhani,180,222
+1027,Male,Mutton Biriyani,450,474
+1028,Male,Mutton Curry,300,345
+1029,Male,Chicken 65,230,266
+1030,Male,Chicken Biryani,250,264
+1031,Male,Chicken 65,230,241
+1032,Male,Paneer Butter masala,250,292
+1033,Female,Mutton Curry,300,325
+1034,Female,Mutton Curry,300,332
+1035,Male,Mutton Curry,300,347
+1036,Female,Butter Nan,40,65
+1037,Female,Paneer Butter masala,250,273
+1038,Female,Chicken Machurian,200,238
+1039,Male,Chicken 65,230,265
+1040,Female,Chicken Machurian,200,244
+1041,Male,Mutton Biriyani,450,474
+1042,Female,Brownie With Ice Cream,150,162
+1043,Male,Brownie With Ice Cream,150,182
+1044,Male,Chicken Machurian,200,238
+1045,Female,Chicken Biryani,250,293
+1046,Female,Mutton Biriyani,450,492
+1047,Male,Paneer Butter masala,250,282
+1048,Female,Dal Makhani,180,196
+1049,Female,Brownie With Ice Cream,150,162
+1050,Female,Dal Makhani,180,221
+1051,Male,Mutton Biriyani,450,490
+1052,Male,Chicken 65,230,257
+1053,Female,Brownie With Ice Cream,150,166
+1054,Female,Chicken Biryani,250,260
+1055,Female,Chicken Biryani,250,273
+1056,Male,Mutton Curry,300,341
+1057,Male,Butter Nan,40,55
+1058,Female,Mutton Biriyani,450,498
+1059,Female,Brownie With Ice Cream,150,169
+1060,Female,Butter Nan,40,56
+1061,Female,Mutton Biriyani,450,485
+1062,Female,Chicken Machurian,200,243
+1063,Female,Paneer Butter masala,250,289
+1064,Male,Paneer Butter masala,250,295
+1065,Female,Mutton Curry,300,330
+1066,Male,Mutton Curry,300,326
+1067,Female,Paneer Butter masala,250,292
+1068,Female,Chicken 65,230,249
+1069,Male,Brownie With Ice Cream,150,171
+1070,Male,Paneer Butter masala,250,275
+1071,Male,Chicken 65,230,271
+1072,Male,Butter Nan,40,64
+1073,Female,Chicken 65,230,266
+1074,Male,Butter Nan,40,77
+1075,Female,Mutton Biriyani,450,476
+1076,Male,Dal Makhani,180,191
+1077,Female,Mutton Biriyani,450,495
+1078,Female,Paneer Butter masala,250,266
+1079,Female,Butter Nan,40,62
+1080,Female,Paneer Butter masala,250,274
+1081,Female,Brownie With Ice Cream,150,184
+1082,Female,Chicken Biryani,250,282
+1083,Male,Paneer Butter masala,250,281
+1084,Female,Brownie With Ice Cream,150,185
+1085,Male,Chicken 65,230,272
+1086,Male,Mutton Biriyani,450,470
+1087,Female,Chicken 65,230,249
+1088,Male,Chicken Biryani,250,284
+1089,Female,Butter Nan,40,86
+1090,Male,Brownie With Ice Cream,150,197
+1091,Female,Dal Makhani,180,213
+1092,Male,Paneer Butter masala,250,299
+1093,Female,Butter Nan,40,82
+1094,Female,Dal Makhani,180,206
+1095,Female,Chicken Machurian,200,233
+1096,Female,Paneer Butter masala,250,296
+1097,Male,Chicken 65,230,241
+1098,Female,Mutton Biriyani,450,491
+1099,Male,Brownie With Ice Cream,150,183
+1100,Male,Chicken Biryani,250,268
+1101,Male,Chicken Biryani,250,263
+1102,Female,Chicken 65,230,256
+1103,Male,Mutton Curry,300,326
+1104,Male,Chicken Biryani,250,289
+1105,Male,Brownie With Ice Cream,150,199
+1106,Female,Chicken 65,230,250
+1107,Female,Butter Nan,40,70
+1108,Male,Chicken Biryani,250,280
+1109,Female,Chicken 65,230,257
+1110,Female,Brownie With Ice Cream,150,188
+1111,Male,Paneer Butter masala,250,283
+1112,Male,Paneer Butter masala,250,269
+1113,Female,Chicken Biryani,250,276
+1114,Male,Mutton Biriyani,450,477
+1115,Female,Paneer Butter masala,250,279
+1116,Female,Mutton Biriyani,450,496
+1117,Female,Butter Nan,40,67
+1118,Female,Chicken 65,230,256
+1119,Female,Dal Makhani,180,198
+1120,Female,Brownie With Ice Cream,150,173
+1121,Male,Chicken 65,230,268
+1122,Male,Brownie With Ice Cream,150,190
+1123,Female,Butter Nan,40,53
+1124,Female,Chicken Machurian,200,227
+1125,Female,Chicken Biryani,250,279
+1126,Male,Brownie With Ice Cream,150,168
+1127,Female,Brownie With Ice Cream,150,172
+1128,Male,Mutton Biriyani,450,474
+1129,Female,Chicken 65,230,266
+1130,Female,Chicken Machurian,200,224
+1131,Male,Mutton Curry,300,337
+1132,Male,Chicken Biryani,250,296
+1133,Female,Dal Makhani,180,208
+1134,Female,Mutton Curry,300,335
+1135,Female,Chicken 65,230,265
+1136,Male,Chicken Biryani,250,284
+1137,Male,Brownie With Ice Cream,150,185
+1138,Male,Dal Makhani,180,215
+1139,Male,Mutton Biriyani,450,487
+1140,Male,Chicken Machurian,200,227
+1141,Male,Mutton Biriyani,450,491
+1142,Female,Butter Nan,40,52
+1143,Female,Chicken Biryani,250,261
+1144,Male,Mutton Biriyani,450,492
+1145,Female,Mutton Curry,300,328
+1146,Female,Mutton Biriyani,450,476
+1147,Male,Paneer Butter masala,250,292
+1148,Female,Butter Nan,40,61
+1149,Male,Chicken 65,230,242
+1150,Male,Chicken Machurian,200,235
+1151,Female,Butter Nan,40,84
+1152,Male,Paneer Butter masala,250,267
+1153,Male,Chicken Biryani,250,295
+1154,Male,Mutton Curry,300,316
+1155,Male,Chicken Machurian,200,245
+1156,Male,Chicken Machurian,200,225
+1157,Male,Butter Nan,40,73
+1158,Male,Chicken Biryani,250,260
+1159,Male,Brownie With Ice Cream,150,184
+1160,Female,Paneer Butter masala,250,269
+1161,Female,Brownie With Ice Cream,150,175
+1162,Female,Mutton Curry,300,325
+1163,Male,Chicken Biryani,250,267
+1164,Male,Chicken Biryani,250,288
+1165,Female,Paneer Butter masala,250,298
+1166,Female,Dal Makhani,180,217
+1167,Female,Brownie With Ice Cream,150,165
+1168,Male,Mutton Biriyani,450,475
+1169,Female,Chicken Machurian,200,229
+1170,Female,Dal Makhani,180,205
+1171,Male,Mutton Biriyani,450,466
+1172,Female,Paneer Butter masala,250,273
+1173,Male,Chicken Machurian,200,235
+1174,Male,Chicken 65,230,265
+1175,Male,Mutton Biriyani,450,473
+1176,Female,Dal Makhani,180,196
+1177,Female,Mutton Biriyani,450,492
+1178,Male,Mutton Biriyani,450,485
+1179,Female,Paneer Butter masala,250,279
+1180,Female,Brownie With Ice Cream,150,162
+1181,Female,Chicken 65,230,243
+1182,Female,Paneer Butter masala,250,285
+1183,Male,Mutton Curry,300,320
+1184,Female,Paneer Butter masala,250,261
+1185,Male,Chicken Machurian,200,223
+1186,Male,Chicken 65,230,269
+1187,Female,Chicken Biryani,250,271
+1188,Male,Mutton Curry,300,335
+1189,Female,Butter Nan,40,82
+1190,Female,Paneer Butter masala,250,272
+1191,Male,Mutton Biriyani,450,473
+1192,Male,Brownie With Ice Cream,150,183
+1193,Male,Chicken Biryani,250,293
+1194,Male,Paneer Butter masala,250,285
+1195,Female,Paneer Butter masala,250,280
+1196,Female,Dal Makhani,180,217
+1197,Female,Dal Makhani,180,225
+1198,Male,Chicken Biryani,250,299
+1199,Male,Dal Makhani,180,191
+1200,Male,Mutton Biriyani,450,468
+1201,Female,Mutton Curry,300,332
+1202,Male,Butter Nan,40,64
+1203,Female,Chicken 65,230,252
+1204,Male,Butter Nan,40,72
+1205,Female,Butter Nan,40,66
+1206,Female,Chicken 65,230,241
+1207,Male,Dal Makhani,180,209
+1208,Male,Chicken Biryani,250,279
+1209,Female,Chicken 65,230,242
+1210,Female,Chicken Machurian,200,221
+1211,Male,Mutton Curry,300,349
+1212,Male,Brownie With Ice Cream,150,161
+1213,Female,Dal Makhani,180,225
+1214,Male,Chicken 65,230,253
+1215,Female,Chicken Machurian,200,225
+1216,Female,Brownie With Ice Cream,150,178
+1217,Male,Mutton Curry,300,343
+1218,Male,Mutton Curry,300,315
+1219,Male,Dal Makhani,180,202
+1220,Male,Chicken 65,230,275
+1221,Male,Chicken Biryani,250,281
+1222,Female,Mutton Curry,300,327
+1223,Female,Chicken Biryani,250,271
+1224,Male,Chicken Biryani,250,289
+1225,Male,Dal Makhani,180,229
+1226,Male,Brownie With Ice Cream,150,166
+1227,Female,Paneer Butter masala,250,291
+1228,Male,Butter Nan,40,68
+1229,Male,Butter Nan,40,55
+1230,Female,Mutton Curry,300,329
+1231,Female,Paneer Butter masala,250,286
+1232,Male,Brownie With Ice Cream,150,196
+1233,Male,Paneer Butter masala,250,266
+1234,Male,Dal Makhani,180,194
+1235,Female,Mutton Curry,300,320
+1236,Male,Chicken Biryani,250,274
+1237,Male,Mutton Curry,300,312
+1238,Male,Butter Nan,40,54
+1239,Female,Brownie With Ice Cream,150,182
+1240,Female,Paneer Butter masala,250,296
+1241,Male,Brownie With Ice Cream,150,168
+1242,Male,Dal Makhani,180,204
+1243,Female,Mutton Curry,300,312
+1244,Female,Chicken 65,230,268
+1245,Female,Mutton Curry,300,315
+1246,Female,Chicken Biryani,250,276
+1247,Female,Mutton Curry,300,335
+1248,Female,Chicken Machurian,200,230
+1249,Female,Dal Makhani,180,197
+1250,Female,Mutton Biriyani,450,480
+1251,Female,Dal Makhani,180,200
+1252,Male,Paneer Butter masala,250,297
+1253,Male,Mutton Biriyani,450,467
+1254,Male,Paneer Butter masala,250,283
+1255,Female,Paneer Butter masala,250,294
+1256,Male,Chicken Biryani,250,273
+1257,Female,Chicken Biryani,250,273
+1258,Female,Butter Nan,40,59
+1259,Male,Butter Nan,40,61
+1260,Female,Chicken 65,230,277
+1261,Male,Mutton Biriyani,450,493
+1262,Male,Brownie With Ice Cream,150,169
+1263,Male,Mutton Curry,300,326
+1264,Female,Mutton Curry,300,326
+1265,Male,Paneer Butter masala,250,262
+1266,Female,Butter Nan,40,80
+1267,Male,Paneer Butter masala,250,260
+1268,Male,Chicken Machurian,200,221
+1269,Male,Chicken Machurian,200,248
+1270,Female,Brownie With Ice Cream,150,163
+1271,Female,Chicken Biryani,250,272
+1272,Female,Chicken Biryani,250,293
+1273,Male,Butter Nan,40,70
+1274,Male,Butter Nan,40,71
+1275,Female,Chicken Machurian,200,213
+1276,Female,Chicken Biryani,250,277
+1277,Female,Mutton Biriyani,450,464
+1278,Female,Mutton Biriyani,450,478
+1279,Female,Butter Nan,40,51
+1280,Female,Paneer Butter masala,250,271
+1281,Male,Chicken Biryani,250,276
+1282,Female,Mutton Biriyani,450,469
+1283,Male,Chicken Biryani,250,293
+1284,Male,Dal Makhani,180,195
+1285,Female,Mutton Curry,300,317
+1286,Female,Chicken Machurian,200,220
+1287,Male,Chicken Biryani,250,271
+1288,Female,Mutton Curry,300,318
+1289,Female,Dal Makhani,180,191
+1290,Male,Chicken Biryani,250,267
+1291,Male,Butter Nan,40,60
+1292,Male,Mutton Curry,300,345
+1293,Female,Chicken Biryani,250,269
+1294,Male,Mutton Curry,300,330
+1295,Female,Dal Makhani,180,209
+1296,Male,Chicken Biryani,250,267
+1297,Male,Chicken Biryani,250,295
+1298,Male,Chicken Biryani,250,288
+1299,Female,Brownie With Ice Cream,150,171
+1300,Female,Butter Nan,40,63
+1301,Male,Dal Makhani,180,210
+1302,Male,Brownie With Ice Cream,150,181
+1303,Male,Paneer Butter masala,250,280
+1304,Female,Brownie With Ice Cream,150,189
+1305,Male,Chicken Machurian,200,248
+1306,Female,Chicken Machurian,200,229
+1307,Male,Chicken Biryani,250,283
+1308,Male,Brownie With Ice Cream,150,182
+1309,Male,Paneer Butter masala,250,266
+1310,Male,Brownie With Ice Cream,150,168
+1311,Male,Butter Nan,40,50
+1312,Male,Butter Nan,40,75
+1313,Female,Paneer Butter masala,250,297
+1314,Male,Brownie With Ice Cream,150,197
+1315,Female,Mutton Curry,300,331
+1316,Male,Butter Nan,40,59
+1317,Male,Butter Nan,40,55
+1318,Female,Mutton Biriyani,450,476
+1319,Male,Brownie With Ice Cream,150,197
+1320,Female,Butter Nan,40,73
+1321,Female,Dal Makhani,180,199
+1322,Male,Brownie With Ice Cream,150,167
+1323,Female,Chicken Machurian,200,230
+1324,Female,Mutton Biriyani,450,465
+1325,Male,Butter Nan,40,70
+1326,Female,Mutton Biriyani,450,498
+1327,Male,Chicken Machurian,200,233
+1328,Male,Paneer Butter masala,250,292
+1329,Male,Paneer Butter masala,250,277
+1330,Male,Brownie With Ice Cream,150,187
+1331,Female,Chicken Machurian,200,241
+1332,Male,Chicken 65,230,251
+1333,Male,Chicken 65,230,266
+1334,Female,Brownie With Ice Cream,150,169
+1335,Male,Chicken Biryani,250,291
+1336,Male,Mutton Biriyani,450,485
+1337,Female,Mutton Biriyani,450,484
+1338,Female,Paneer Butter masala,250,270
+1339,Female,Chicken 65,230,262
+1340,Female,Butter Nan,40,83
+1341,Female,Butter Nan,40,89
+1342,Female,Butter Nan,40,72
+1343,Female,Paneer Butter masala,250,288
+1344,Male,Chicken Machurian,200,240
+1345,Female,Mutton Curry,300,316
+1346,Female,Chicken 65,230,279
+1347,Female,Chicken 65,230,272
+1348,Male,Mutton Biriyani,450,480
+1349,Male,Chicken Biryani,250,261
+1350,Female,Brownie With Ice Cream,150,177
+1351,Female,Mutton Biriyani,450,492
+1352,Female,Chicken Machurian,200,246
+1353,Male,Brownie With Ice Cream,150,193
+1354,Male,Chicken 65,230,259
+1355,Female,Chicken Machurian,200,244
+1356,Male,Brownie With Ice Cream,150,177
+1357,Female,Dal Makhani,180,213
+1358,Male,Mutton Curry,300,317
+1359,Male,Chicken 65,230,269
+1360,Female,Chicken Biryani,250,269
+1361,Female,Butter Nan,40,72
+1362,Female,Dal Makhani,180,200
+1363,Female,Butter Nan,40,51
+1364,Male,Mutton Curry,300,335
+1365,Male,Brownie With Ice Cream,150,195
+1366,Male,Paneer Butter masala,250,292
+1367,Female,Chicken Biryani,250,272
+1368,Male,Mutton Curry,300,349
+1369,Female,Butter Nan,40,74
+1370,Male,Dal Makhani,180,193
+1371,Female,Chicken 65,230,258
+1372,Female,Dal Makhani,180,207
+1373,Male,Dal Makhani,180,226
+1374,Female,Paneer Butter masala,250,289
+1375,Female,Paneer Butter masala,250,278
+1376,Male,Chicken Machurian,200,232
+1377,Female,Chicken Machurian,200,225
+1378,Female,Brownie With Ice Cream,150,160
+1379,Female,Chicken Machurian,200,221
+1380,Male,Mutton Biriyani,450,483
+1381,Male,Chicken Biryani,250,293
+1382,Female,Mutton Biriyani,450,467
+1383,Male,Mutton Biriyani,450,477
+1384,Female,Butter Nan,40,54
+1385,Female,Mutton Curry,300,335
+1386,Female,Mutton Biriyani,450,489
+1387,Female,Chicken Biryani,250,272
+1388,Female,Paneer Butter masala,250,278
+1389,Male,Brownie With Ice Cream,150,188
+1390,Female,Butter Nan,40,52
+1391,Male,Paneer Butter masala,250,285
+1392,Male,Butter Nan,40,89
+1393,Female,Chicken Biryani,250,271
+1394,Female,Dal Makhani,180,191
+1395,Male,Chicken 65,230,250
+1396,Male,Mutton Curry,300,337
+1397,Male,Paneer Butter masala,250,277
+1398,Female,Mutton Curry,300,322
+1399,Male,Dal Makhani,180,226
+1400,Female,Chicken 65,230,261
+1401,Female,Mutton Curry,300,321
+1402,Female,Mutton Curry,300,311
+1403,Male,Paneer Butter masala,250,296
+1404,Female,Chicken Machurian,200,216
+1405,Female,Chicken 65,230,265
+1406,Female,Dal Makhani,180,215
+1407,Female,Chicken 65,230,263
+1408,Female,Chicken Biryani,250,271
+1409,Male,Chicken Machurian,200,225
+1410,Female,Chicken Biryani,250,282
+1411,Female,Dal Makhani,180,229
+1412,Male,Paneer Butter masala,250,268
+1413,Female,Paneer Butter masala,250,291
+1414,Male,Dal Makhani,180,204
+1415,Female,Butter Nan,40,86
+1416,Male,Dal Makhani,180,202
+1417,Male,Chicken Machurian,200,214
+1418,Female,Mutton Biriyani,450,470
+1419,Female,Paneer Butter masala,250,269
+1420,Female,Brownie With Ice Cream,150,172
+1421,Male,Chicken Machurian,200,224
+1422,Male,Chicken Machurian,200,216
+1423,Male,Chicken Machurian,200,249
+1424,Female,Mutton Curry,300,337
+1425,Male,Chicken Machurian,200,241
+1426,Male,Paneer Butter masala,250,294
+1427,Female,Mutton Biriyani,450,474
+1428,Male,Mutton Biriyani,450,495
+1429,Male,Chicken Machurian,200,230
+1430,Female,Chicken Biryani,250,265
+1431,Male,Paneer Butter masala,250,260
+1432,Female,Paneer Butter masala,250,263
+1433,Female,Chicken 65,230,250
+1434,Female,Butter Nan,40,75
+1435,Female,Butter Nan,40,86
+1436,Female,Chicken Biryani,250,282
+1437,Male,Butter Nan,40,78
+1438,Male,Chicken 65,230,260
+1439,Female,Dal Makhani,180,216
+1440,Female,Butter Nan,40,88
+1441,Male,Paneer Butter masala,250,299
+1442,Female,Dal Makhani,180,202
+1443,Female,Butter Nan,40,72
+1444,Female,Paneer Butter masala,250,275
+1445,Male,Paneer Butter masala,250,289
+1446,Male,Chicken Machurian,200,213
+1447,Female,Mutton Biriyani,450,499
+1448,Female,Chicken Biryani,250,275
+1449,Male,Chicken 65,230,270
+1450,Male,Mutton Curry,300,334
+1451,Female,Butter Nan,40,61
+1452,Female,Butter Nan,40,75
+1453,Male,Dal Makhani,180,226
+1454,Male,Dal Makhani,180,222
+1455,Male,Butter Nan,40,77
+1456,Female,Brownie With Ice Cream,150,168
+1457,Male,Chicken 65,230,251
+1458,Female,Butter Nan,40,54
+1459,Male,Mutton Biriyani,450,487
+1460,Male,Brownie With Ice Cream,150,194
+1461,Male,Chicken 65,230,244
+1462,Male,Butter Nan,40,83
+1463,Female,Mutton Curry,300,343
+1464,Female,Chicken Machurian,200,222
+1465,Male,Mutton Biriyani,450,498
+1466,Female,Mutton Curry,300,323
+1467,Male,Dal Makhani,180,200
+1468,Male,Dal Makhani,180,227
+1469,Male,Butter Nan,40,53
+1470,Male,Dal Makhani,180,222
+1471,Female,Mutton Biriyani,450,466
+1472,Male,Chicken 65,230,247
+1473,Male,Paneer Butter masala,250,296
+1474,Female,Chicken Biryani,250,269
+1475,Male,Chicken 65,230,254
+1476,Male,Paneer Butter masala,250,297
+1477,Male,Brownie With Ice Cream,150,174
+1478,Female,Mutton Biriyani,450,464
+1479,Male,Mutton Curry,300,338
+1480,Female,Paneer Butter masala,250,278
+1481,Male,Mutton Biriyani,450,469
+1482,Male,Chicken Machurian,200,221
+1483,Female,Mutton Curry,300,313
+1484,Male,Dal Makhani,180,220
+1485,Male,Dal Makhani,180,207
+1486,Female,Mutton Curry,300,325
+1487,Female,Brownie With Ice Cream,150,199
+1488,Female,Brownie With Ice Cream,150,195
+1489,Female,Brownie With Ice Cream,150,184
+1490,Female,Paneer Butter masala,250,282
+1491,Male,Paneer Butter masala,250,271
+1492,Female,Butter Nan,40,83
+1493,Male,Chicken Biryani,250,295
+1494,Male,Mutton Curry,300,346
+1495,Male,Chicken 65,230,242
+1496,Female,Chicken Biryani,250,268
+1497,Female,Chicken Machurian,200,227
+1498,Male,Paneer Butter masala,250,294
+1499,Female,Paneer Butter masala,250,293
+1500,Female,Mutton Biriyani,450,473
+1501,Female,Chicken Biryani,250,263
+1502,Female,Mutton Biriyani,450,488
+1503,Male,Chicken 65,230,254
+1504,Male,Mutton Biriyani,450,487
+1505,Female,Chicken Biryani,250,275
+1506,Male,Mutton Curry,300,321
+1507,Female,Chicken Machurian,200,214
+1508,Female,Paneer Butter masala,250,293
+1509,Male,Chicken 65,230,240
+1510,Male,Paneer Butter masala,250,298
+1511,Male,Butter Nan,40,81
+1512,Female,Chicken Machurian,200,235
+1513,Male,Mutton Biriyani,450,476
+1514,Female,Dal Makhani,180,216
+1515,Male,Chicken Biryani,250,283
+1516,Male,Paneer Butter masala,250,294
+1517,Female,Mutton Biriyani,450,498
+1518,Female,Chicken 65,230,265
+1519,Female,Paneer Butter masala,250,297
+1520,Female,Chicken Machurian,200,232
+1521,Female,Chicken Machurian,200,231
+1522,Female,Paneer Butter masala,250,263
+1523,Female,Chicken 65,230,248
+1524,Female,Chicken Machurian,200,213
+1525,Male,Chicken Machurian,200,216
+1526,Female,Chicken Biryani,250,282
+1527,Female,Chicken 65,230,241
+1528,Male,Chicken 65,230,263
+1529,Female,Mutton Curry,300,349
+1530,Male,Mutton Curry,300,340
+1531,Male,Chicken Machurian,200,240
+1532,Female,Dal Makhani,180,229
+1533,Male,Mutton Curry,300,343
+1534,Female,Chicken Machurian,200,233
+1535,Male,Brownie With Ice Cream,150,185
+1536,Male,Butter Nan,40,65
+1537,Male,Butter Nan,40,62
+1538,Female,Chicken 65,230,254
+1539,Female,Dal Makhani,180,216
+1540,Male,Chicken Biryani,250,263
+1541,Male,Mutton Curry,300,325
+1542,Female,Brownie With Ice Cream,150,189
+1543,Female,Chicken Machurian,200,239
+1544,Male,Dal Makhani,180,225
+1545,Male,Chicken 65,230,242
+1546,Female,Mutton Curry,300,331
+1547,Female,Dal Makhani,180,211
+1548,Female,Mutton Curry,300,321
+1549,Female,Chicken Biryani,250,280
+1550,Female,Chicken Biryani,250,263
+1551,Male,Butter Nan,40,80
+1552,Female,Mutton Biriyani,450,490
+1553,Male,Mutton Biriyani,450,482
+1554,Female,Mutton Curry,300,329
+1555,Male,Mutton Biriyani,450,474
+1556,Female,Chicken 65,230,262
+1557,Female,Mutton Biriyani,450,487
+1558,Male,Paneer Butter masala,250,275
+1559,Male,Chicken Machurian,200,246
+1560,Female,Chicken 65,230,260
+1561,Female,Dal Makhani,180,204
+1562,Female,Chicken 65,230,256
+1563,Female,Butter Nan,40,86
+1564,Female,Dal Makhani,180,202
+1565,Male,Brownie With Ice Cream,150,178
+1566,Male,Chicken Machurian,200,239
+1567,Female,Chicken Machurian,200,227
+1568,Male,Chicken Machurian,200,223
+1569,Male,Chicken Machurian,200,245
+1570,Male,Mutton Curry,300,345
+1571,Female,Chicken Machurian,200,229
+1572,Male,Chicken Machurian,200,228
+1573,Female,Chicken Machurian,200,216
+1574,Male,Mutton Curry,300,313
+1575,Female,Chicken Biryani,250,293
+1576,Male,Chicken 65,230,241
+1577,Female,Chicken 65,230,244
+1578,Female,Dal Makhani,180,199
+1579,Male,Paneer Butter masala,250,291
+1580,Female,Chicken 65,230,252
+1581,Female,Mutton Biriyani,450,498
+1582,Female,Paneer Butter masala,250,264
+1583,Female,Chicken Machurian,200,219
+1584,Female,Chicken Machurian,200,219
+1585,Female,Mutton Curry,300,347
+1586,Female,Paneer Butter masala,250,286
+1587,Female,Mutton Biriyani,450,480
+1588,Male,Mutton Curry,300,317
+1589,Male,Dal Makhani,180,190
+1590,Female,Paneer Butter masala,250,287
+1591,Female,Chicken Machurian,200,248
+1592,Male,Chicken Machurian,200,223
+1593,Male,Butter Nan,40,70
+1594,Male,Mutton Curry,300,339
+1595,Female,Chicken Biryani,250,280
+1596,Male,Chicken Biryani,250,268
+1597,Female,Mutton Curry,300,326
+1598,Female,Brownie With Ice Cream,150,164
+1599,Male,Mutton Curry,300,340
+1600,Female,Dal Makhani,180,229
+1601,Female,Chicken Machurian,200,247
+1602,Female,Mutton Biriyani,450,478
+1603,Female,Brownie With Ice Cream,150,195
+1604,Male,Paneer Butter masala,250,292
+1605,Male,Brownie With Ice Cream,150,172
+1606,Female,Mutton Biriyani,450,473
+1607,Female,Butter Nan,40,82
+1608,Male,Chicken Machurian,200,238
+1609,Female,Chicken Biryani,250,295
+1610,Male,Mutton Curry,300,319
+1611,Female,Mutton Curry,300,340
+1612,Female,Chicken Biryani,250,265
+1613,Male,Brownie With Ice Cream,150,160
+1614,Male,Chicken Machurian,200,216
+1615,Male,Chicken 65,230,266
+1616,Male,Dal Makhani,180,210
+1617,Female,Mutton Biriyani,450,487
+1618,Male,Brownie With Ice Cream,150,175
+1619,Female,Paneer Butter masala,250,282
+1620,Male,Butter Nan,40,69
+1621,Male,Mutton Curry,300,347
+1622,Female,Brownie With Ice Cream,150,184
+1623,Male,Butter Nan,40,77
+1624,Male,Mutton Biriyani,450,464
+1625,Male,Mutton Curry,300,330
+1626,Male,Mutton Curry,300,327
+1627,Female,Chicken 65,230,245
+1628,Female,Brownie With Ice Cream,150,188
+1629,Male,Chicken Machurian,200,228
+1630,Male,Chicken Biryani,250,292
+1631,Male,Chicken Biryani,250,260
+1632,Female,Dal Makhani,180,192
+1633,Female,Paneer Butter masala,250,280
+1634,Female,Butter Nan,40,84
+1635,Female,Brownie With Ice Cream,150,199
+1636,Male,Paneer Butter masala,250,262
+1637,Male,Chicken 65,230,264
+1638,Male,Mutton Curry,300,347
+1639,Female,Chicken Machurian,200,229
+1640,Male,Brownie With Ice Cream,150,193
+1641,Female,Paneer Butter masala,250,280
+1642,Female,Paneer Butter masala,250,282
+1643,Male,Chicken Machurian,200,215
+1644,Male,Dal Makhani,180,202
+1645,Male,Butter Nan,40,72
+1646,Female,Butter Nan,40,58
+1647,Female,Paneer Butter masala,250,276
+1648,Male,Mutton Biriyani,450,461
+1649,Male,Paneer Butter masala,250,278
+1650,Female,Paneer Butter masala,250,278
+1651,Male,Chicken Machurian,200,216
+1652,Female,Mutton Curry,300,329
+1653,Female,Chicken Machurian,200,218
+1654,Male,Brownie With Ice Cream,150,176
+1655,Male,Paneer Butter masala,250,286
+1656,Male,Butter Nan,40,51
+1657,Male,Butter Nan,40,85
+1658,Female,Chicken Biryani,250,278
+1659,Female,Dal Makhani,180,206
+1660,Female,Chicken 65,230,244
+1661,Male,Brownie With Ice Cream,150,198
+1662,Female,Brownie With Ice Cream,150,177
+1663,Male,Dal Makhani,180,196
+1664,Male,Chicken 65,230,256
+1665,Male,Mutton Curry,300,348
+1666,Male,Paneer Butter masala,250,295
+1667,Male,Chicken 65,230,279
+1668,Male,Mutton Biriyani,450,463
+1669,Female,Chicken Biryani,250,297
+1670,Male,Chicken 65,230,264
+1671,Female,Chicken 65,230,244
+1672,Female,Chicken Biryani,250,289
+1673,Male,Paneer Butter masala,250,271
+1674,Male,Chicken 65,230,243
+1675,Male,Chicken Biryani,250,283
+1676,Female,Chicken Biryani,250,288
+1677,Male,Chicken Biryani,250,268
+1678,Female,Chicken Machurian,200,213
+1679,Male,Chicken Machurian,200,233
+1680,Male,Mutton Biriyani,450,473
+1681,Female,Mutton Curry,300,314
+1682,Female,Chicken Machurian,200,227
+1683,Male,Chicken Machurian,200,228
+1684,Female,Mutton Curry,300,321
+1685,Female,Dal Makhani,180,207
+1686,Female,Chicken Biryani,250,276
+1687,Female,Brownie With Ice Cream,150,189
+1688,Female,Mutton Curry,300,333
+1689,Male,Mutton Biriyani,450,470
+1690,Male,Paneer Butter masala,250,294
+1691,Female,Mutton Biriyani,450,482
+1692,Male,Chicken Biryani,250,276
+1693,Male,Mutton Curry,300,310
+1694,Female,Mutton Biriyani,450,474
+1695,Male,Mutton Biriyani,450,491
+1696,Female,Dal Makhani,180,198
+1697,Female,Dal Makhani,180,204
+1698,Male,Mutton Curry,300,337
+1699,Female,Chicken Biryani,250,283
+1700,Female,Chicken Machurian,200,244
+1701,Female,Butter Nan,40,71
+1702,Female,Chicken 65,230,266
+1703,Female,Brownie With Ice Cream,150,178
+1704,Male,Chicken 65,230,251
+1705,Male,Dal Makhani,180,209
+1706,Female,Mutton Curry,300,310
+1707,Female,Chicken 65,230,260
+1708,Male,Chicken Biryani,250,260
+1709,Female,Brownie With Ice Cream,150,169
+1710,Male,Chicken 65,230,271
+1711,Female,Brownie With Ice Cream,150,198
+1712,Female,Paneer Butter masala,250,281
+1713,Female,Chicken Biryani,250,277
+1714,Female,Butter Nan,40,81
+1715,Female,Mutton Biriyani,450,486
+1716,Female,Brownie With Ice Cream,150,187
+1717,Female,Chicken Biryani,250,277
+1718,Male,Brownie With Ice Cream,150,198
+1719,Male,Brownie With Ice Cream,150,188
+1720,Male,Chicken Machurian,200,227
+1721,Female,Chicken Machurian,200,217
+1722,Female,Chicken Biryani,250,290
+1723,Female,Chicken Machurian,200,243
+1724,Female,Butter Nan,40,56
+1725,Female,Mutton Curry,300,345
+1726,Female,Chicken Biryani,250,277
+1727,Female,Chicken Biryani,250,297
+1728,Male,Dal Makhani,180,198
+1729,Female,Dal Makhani,180,198
+1730,Male,Chicken Machurian,200,217
+1731,Male,Mutton Curry,300,344
+1732,Female,Chicken Machurian,200,227
+1733,Female,Paneer Butter masala,250,264
+1734,Male,Paneer Butter masala,250,273
+1735,Male,Mutton Biriyani,450,487
+1736,Female,Paneer Butter masala,250,289
+1737,Female,Dal Makhani,180,193
+1738,Male,Butter Nan,40,88
+1739,Female,Paneer Butter masala,250,279
+1740,Female,Chicken Machurian,200,234
+1741,Female,Brownie With Ice Cream,150,187
+1742,Male,Chicken Biryani,250,271
+1743,Male,Butter Nan,40,51
+1744,Male,Butter Nan,40,63
+1745,Female,Chicken Machurian,200,231
+1746,Female,Chicken Biryani,250,290
+1747,Male,Dal Makhani,180,212
+1748,Male,Butter Nan,40,69
+1749,Male,Mutton Biriyani,450,497
+1750,Female,Chicken Machurian,200,213
+1751,Male,Butter Nan,40,64
+1752,Male,Mutton Curry,300,333
+1753,Female,Chicken Biryani,250,284
+1754,Female,Paneer Butter masala,250,260
+1755,Female,Butter Nan,40,56
+1756,Male,Chicken Machurian,200,240
+1757,Female,Paneer Butter masala,250,271
+1758,Female,Mutton Biriyani,450,464
+1759,Male,Paneer Butter masala,250,297
+1760,Female,Mutton Curry,300,321
+1761,Male,Dal Makhani,180,228
+1762,Male,Butter Nan,40,67
+1763,Female,Chicken 65,230,241
+1764,Female,Chicken 65,230,249
+1765,Female,Paneer Butter masala,250,274
+1766,Female,Chicken Biryani,250,289
+1767,Female,Chicken 65,230,256
+1768,Female,Chicken 65,230,243
+1769,Male,Chicken Biryani,250,266
+1770,Male,Brownie With Ice Cream,150,190
+1771,Female,Chicken 65,230,278
+1772,Male,Mutton Curry,300,343
+1773,Female,Butter Nan,40,55
+1774,Male,Butter Nan,40,87
+1775,Male,Chicken Machurian,200,243
+1776,Male,Chicken Machurian,200,224
+1777,Female,Chicken Biryani,250,273
+1778,Male,Mutton Biriyani,450,465
+1779,Female,Chicken Machurian,200,246
+1780,Male,Chicken Biryani,250,291
+1781,Male,Chicken Machurian,200,212
+1782,Male,Chicken Machurian,200,212
+1783,Male,Mutton Biriyani,450,481
+1784,Male,Chicken 65,230,261
+1785,Female,Paneer Butter masala,250,269
+1786,Female,Brownie With Ice Cream,150,162
+1787,Male,Chicken Machurian,200,221
+1788,Male,Chicken Machurian,200,238
+1789,Male,Mutton Curry,300,326
+1790,Male,Brownie With Ice Cream,150,166
+1791,Female,Mutton Biriyani,450,472
+1792,Male,Butter Nan,40,51
+1793,Female,Chicken Machurian,200,213
+1794,Male,Paneer Butter masala,250,269
+1795,Female,Brownie With Ice Cream,150,198
+1796,Male,Chicken 65,230,263
+1797,Male,Chicken Machurian,200,226
+1798,Female,Butter Nan,40,55
+1799,Male,Butter Nan,40,68
+1800,Male,Chicken Machurian,200,214
+1801,Male,Dal Makhani,180,221
+1802,Female,Butter Nan,40,59
+1803,Male,Chicken Biryani,250,268
+1804,Male,Butter Nan,40,76
+1805,Female,Brownie With Ice Cream,150,172
+1806,Female,Dal Makhani,180,208
+1807,Female,Mutton Biriyani,450,480
+1808,Male,Mutton Curry,300,333
+1809,Male,Mutton Biriyani,450,497
+1810,Male,Chicken 65,230,243
+1811,Female,Mutton Curry,300,333
+1812,Male,Chicken 65,230,274
+1813,Male,Mutton Curry,300,312
+1814,Female,Mutton Curry,300,313
+1815,Female,Chicken Biryani,250,296
+1816,Female,Paneer Butter masala,250,299
+1817,Female,Brownie With Ice Cream,150,194
+1818,Female,Mutton Biriyani,450,490
+1819,Male,Butter Nan,40,74
+1820,Female,Dal Makhani,180,229
+1821,Male,Brownie With Ice Cream,150,172
+1822,Male,Chicken 65,230,243
+1823,Female,Chicken Biryani,250,273
+1824,Female,Chicken 65,230,252
+1825,Female,Paneer Butter masala,250,286
+1826,Male,Dal Makhani,180,195
+1827,Female,Chicken Biryani,250,276
+1828,Female,Chicken 65,230,275
+1829,Female,Paneer Butter masala,250,299
+1830,Female,Chicken 65,230,274
+1831,Female,Brownie With Ice Cream,150,176
+1832,Male,Dal Makhani,180,191
+1833,Male,Chicken Machurian,200,222
+1834,Male,Brownie With Ice Cream,150,161
+1835,Female,Dal Makhani,180,217
+1836,Female,Paneer Butter masala,250,285
+1837,Female,Chicken Biryani,250,281
+1838,Male,Mutton Curry,300,312
+1839,Female,Chicken 65,230,274
+1840,Female,Mutton Biriyani,450,471
+1841,Female,Dal Makhani,180,213
+1842,Male,Butter Nan,40,54
+1843,Female,Paneer Butter masala,250,279
+1844,Male,Chicken Machurian,200,248
+1845,Female,Mutton Curry,300,348
+1846,Male,Butter Nan,40,62
+1847,Male,Chicken Machurian,200,221
+1848,Male,Mutton Biriyani,450,472
+1849,Female,Brownie With Ice Cream,150,169
+1850,Female,Chicken 65,230,272
+1851,Male,Chicken Biryani,250,299
+1852,Male,Chicken Machurian,200,225
+1853,Female,Mutton Curry,300,344
+1854,Female,Dal Makhani,180,192
+1855,Male,Dal Makhani,180,194
+1856,Female,Mutton Curry,300,335
+1857,Female,Dal Makhani,180,200
+1858,Female,Chicken Machurian,200,216
+1859,Female,Paneer Butter masala,250,269
+1860,Male,Dal Makhani,180,223
+1861,Female,Brownie With Ice Cream,150,162
+1862,Female,Mutton Biriyani,450,467
+1863,Male,Chicken Biryani,250,290
+1864,Male,Chicken Machurian,200,220
+1865,Female,Butter Nan,40,56
+1866,Female,Mutton Curry,300,311
+1867,Female,Chicken Machurian,200,215
+1868,Female,Paneer Butter masala,250,291
+1869,Male,Brownie With Ice Cream,150,179
+1870,Male,Mutton Curry,300,343
+1871,Male,Dal Makhani,180,205
+1872,Female,Chicken Machurian,200,234
+1873,Female,Mutton Biriyani,450,471
+1874,Female,Mutton Curry,300,316
+1875,Female,Chicken 65,230,278
+1876,Male,Brownie With Ice Cream,150,176
+1877,Male,Chicken Biryani,250,270
+1878,Female,Mutton Curry,300,315
+1879,Male,Paneer Butter masala,250,282
+1880,Female,Chicken Machurian,200,236
+1881,Female,Dal Makhani,180,195
+1882,Male,Chicken Biryani,250,297
+1883,Female,Chicken Biryani,250,261
+1884,Female,Brownie With Ice Cream,150,181
+1885,Male,Paneer Butter masala,250,279
+1886,Female,Dal Makhani,180,214
+1887,Female,Chicken Biryani,250,274
+1888,Male,Paneer Butter masala,250,288
+1889,Female,Paneer Butter masala,250,267
+1890,Male,Butter Nan,40,86
+1891,Female,Chicken Machurian,200,242
+1892,Male,Chicken Biryani,250,281
+1893,Male,Chicken Biryani,250,264
+1894,Male,Paneer Butter masala,250,298
+1895,Female,Chicken Biryani,250,277
+1896,Male,Paneer Butter masala,250,297
+1897,Male,Chicken Biryani,250,296
+1898,Male,Paneer Butter masala,250,289
+1899,Male,Butter Nan,40,80
+1900,Male,Chicken Machurian,200,219
+1901,Female,Paneer Butter masala,250,274
+1902,Female,Chicken Biryani,250,277
+1903,Female,Dal Makhani,180,212
+1904,Female,Chicken Machurian,200,242
+1905,Female,Butter Nan,40,65
+1906,Female,Paneer Butter masala,250,297
+1907,Female,Dal Makhani,180,224
+1908,Male,Paneer Butter masala,250,293
+1909,Female,Chicken Biryani,250,287
+1910,Male,Mutton Curry,300,311
+1911,Male,Brownie With Ice Cream,150,189
+1912,Female,Mutton Biriyani,450,472
+1913,Male,Dal Makhani,180,205
+1914,Male,Chicken 65,230,244
+1915,Male,Paneer Butter masala,250,287
+1916,Male,Paneer Butter masala,250,298
+1917,Female,Mutton Biriyani,450,479
+1918,Female,Mutton Biriyani,450,483
+1919,Female,Chicken 65,230,266
+1920,Female,Chicken Biryani,250,289
+1921,Female,Brownie With Ice Cream,150,186
+1922,Female,Mutton Curry,300,335
+1923,Female,Mutton Curry,300,316
+1924,Female,Butter Nan,40,87
+1925,Female,Butter Nan,40,54
+1926,Female,Chicken Biryani,250,282
+1927,Male,Butter Nan,40,77
+1928,Female,Butter Nan,40,83
+1929,Male,Chicken 65,230,254
+1930,Male,Chicken 65,230,271
+1931,Male,Butter Nan,40,75
+1932,Male,Chicken Machurian,200,240
+1933,Female,Chicken Machurian,200,228
+1934,Male,Chicken Biryani,250,268
+1935,Female,Mutton Curry,300,338
+1936,Female,Mutton Biriyani,450,498
+1937,Male,Chicken Biryani,250,263
+1938,Female,Butter Nan,40,52
+1939,Male,Chicken 65,230,268
+1940,Male,Paneer Butter masala,250,270
+1941,Female,Dal Makhani,180,222
+1942,Female,Chicken 65,230,277
+1943,Male,Chicken Machurian,200,220
+1944,Female,Chicken 65,230,266
+1945,Female,Mutton Biriyani,450,492
+1946,Female,Butter Nan,40,70
+1947,Male,Paneer Butter masala,250,298
+1948,Male,Chicken Machurian,200,240
+1949,Female,Chicken Machurian,200,247
+1950,Female,Brownie With Ice Cream,150,161
+1951,Female,Mutton Curry,300,336
+1952,Female,Mutton Biriyani,450,495
+1953,Female,Chicken Machurian,200,220
+1954,Male,Mutton Curry,300,327
+1955,Female,Chicken Machurian,200,210
+1956,Male,Butter Nan,40,84
+1957,Female,Mutton Curry,300,344
+1958,Male,Brownie With Ice Cream,150,190
+1959,Female,Butter Nan,40,77
+1960,Male,Paneer Butter masala,250,298
+1961,Female,Mutton Biriyani,450,460
+1962,Male,Mutton Biriyani,450,484
+1963,Male,Dal Makhani,180,227
+1964,Male,Dal Makhani,180,209
+1965,Male,Mutton Curry,300,312
+1966,Male,Mutton Biriyani,450,461
+1967,Male,Mutton Curry,300,327
+1968,Female,Dal Makhani,180,199
+1969,Male,Paneer Butter masala,250,264
+1970,Female,Chicken Machurian,200,218
+1971,Female,Chicken 65,230,241
+1972,Female,Mutton Curry,300,343
+1973,Female,Paneer Butter masala,250,297
+1974,Female,Mutton Biriyani,450,490
+1975,Male,Chicken Machurian,200,219
+1976,Male,Brownie With Ice Cream,150,171
+1977,Male,Dal Makhani,180,225
+1978,Female,Chicken 65,230,260
+1979,Male,Paneer Butter masala,250,265
+1980,Male,Chicken Machurian,200,212
+1981,Male,Butter Nan,40,59
+1982,Male,Chicken Biryani,250,264
+1983,Male,Chicken 65,230,265
+1984,Female,Chicken 65,230,260
+1985,Male,Chicken Biryani,250,285
+1986,Female,Brownie With Ice Cream,150,197
+1987,Female,Butter Nan,40,75
+1988,Female,Dal Makhani,180,197
+1989,Female,Paneer Butter masala,250,264
+1990,Female,Chicken Machurian,200,224
+1991,Male,Paneer Butter masala,250,275
+1992,Male,Butter Nan,40,50
+1993,Male,Paneer Butter masala,250,275
+1994,Female,Chicken Biryani,250,296
+1995,Male,Chicken 65,230,242
+1996,Male,Paneer Butter masala,250,290
+1997,Female,Mutton Curry,300,322
+1998,Female,Butter Nan,40,65
+1999,Female,Brownie With Ice Cream,150,180
